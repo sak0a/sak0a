@@ -116,7 +116,7 @@
             </div>
             <div class="bg-dark-card rounded-lg px-3 py-2">
               <div class="flex items-center gap-2"><span class="text-sm">⭐</span><span class="text-xs">Insights</span></div>
-              <p class="text-tiny text-gray-400 ml-6">Full Stack & Game Modding</p>
+              <p class="text-tiny text-gray-400 ml-6">Full Stack &amp; Game Modding</p>
             </div>
             <div class="bg-dark-card rounded-lg px-3 py-2">
               <div class="flex items-center gap-2"><span class="text-sm">🏆</span><span class="text-xs">Badges</span></div>
