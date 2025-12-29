@@ -1,1 +1,1 @@
-![sak0a profile](./profile.svg)
+![sak0a profile](https://raw.githubusercontent.com/sak0a/sak0a/main/profile.svg)
