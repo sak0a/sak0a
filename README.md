@@ -27,7 +27,6 @@ I build open-source tools, APIs, and plugins primarily around **Counter-Strike 2
 | [**cs2-inspect-lib**](https://github.com/sak0a/cs2-inspect-lib) | TypeScript library for CS2 inspect URLs — protobuf encoding/decoding, validation, CLI | `TypeScript` |
 | [**CSGO-API**](https://github.com/sak0a/CSGO-API) | Unofficial multi-language JSON API for CS2 — skins, cases, stickers, collections & more | `JavaScript` |
 | [**cs2inspect-web**](https://github.com/sak0a/cs2inspect-web) | Web application for CS2 item inspection | `TypeScript` |
-| [**WeaponPaints**](https://github.com/sak0a/WeaponPaints) | Rewritten CS2 weapon paint plugin for CounterStrikeSharp | `C#` |
 | [**CS2DatabaseCleanup**](https://github.com/sak0a/CS2DatabaseCleanup) | CS2 plugin for automatic MySQL player data cleanup with configurable rules | `C#` |
 | [**SnapKeyAdvanced**](https://github.com/sak0a/SnapKeyAdvanced) | Windows keyboard management utility with key simulation for gaming | `C++` |
 | [**PickPalette**](https://github.com/sak0a/PickPalette) | Lightweight macOS menu bar color picker and palette manager | `Swift` |
