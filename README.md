@@ -32,6 +32,7 @@ I build open-source tools, APIs, and plugins primarily around **Counter-Strike 2
 | [**PickPalette**](https://github.com/sak0a/PickPalette) | Lightweight macOS menu bar color picker and palette manager | `Swift` |
 | [**notur**](https://github.com/sak0a/notur) | Standalone extension framework for Pterodactyl Panel — plugins, themes, tools | `PHP` |
 | [**saka-ui**](https://github.com/sak0a/saka-ui) | Custom Vue component library | `Vue` |
+| [**MacFanControl**](https://github.com/sak0a/macfancontrol) | macOS menu bar app for monitoring temperatures and controlling fan speeds | `Swift` |
 
 ---
 
