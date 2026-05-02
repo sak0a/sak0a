@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm saka
+# Hey, I'm saka / laurin
 
 **Software Developer from Germany**
 
