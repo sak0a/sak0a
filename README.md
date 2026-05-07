@@ -23,16 +23,17 @@ I build open-source tools, APIs, and plugins primarily around **Counter-Strike 2
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**node-cs2**](https://github.com/sak0a/node-cs2) | Node.js module to connect and interact with the CS2 game coordinator | `JavaScript` |
-| [**cs2-inspect-lib**](https://github.com/sak0a/cs2-inspect-lib) | TypeScript library for CS2 inspect URLs — protobuf encoding/decoding, validation, CLI | `TypeScript` |
-| [**CSGO-API**](https://github.com/sak0a/CSGO-API) | Unofficial multi-language JSON API for CS2 — skins, cases, stickers, collections & more | `JavaScript` |
-| [**cs2inspect-web**](https://github.com/sak0a/cs2inspect-web) | Web application for CS2 item inspection | `TypeScript` |
+| [**node-cs2**](https://github.com/sak0a/node-cs2) | Node.js module to connect and interact with the CS2 game coordinator | `js` |
+| [**cs2-inspect-lib**](https://github.com/sak0a/cs2-inspect-lib) | TypeScript library for CS2 inspect URLs — protobuf encoding/decoding, validation, CLI | `ts` |
+| [**CSGO-API**](https://github.com/sak0a/CSGO-API) | Unofficial multi-language JSON API for CS2 — skins, cases, stickers, collections & more | `js` |
+| [**cs2inspect-web**](https://github.com/sak0a/cs2inspect-web) | Web application for CS2 item inspection | `ts` |
 | [**CS2DatabaseCleanup**](https://github.com/sak0a/CS2DatabaseCleanup) | CS2 plugin for automatic MySQL player data cleanup with configurable rules | `C#` |
 | [**SnapKeyAdvanced**](https://github.com/sak0a/SnapKeyAdvanced) | Windows keyboard management utility with key simulation for gaming | `C++` |
 | [**PickPalette**](https://github.com/sak0a/PickPalette) | Lightweight macOS menu bar color picker and palette manager | `Swift` |
 | [**notur**](https://github.com/sak0a/notur) | Standalone extension framework for Pterodactyl Panel — plugins, themes, tools | `PHP` |
 | [**saka-ui**](https://github.com/sak0a/saka-ui) | Custom Vue component library | `Vue` |
 | [**MacFanControl**](https://github.com/sak0a/macfancontrol) | macOS menu bar app for monitoring temperatures and controlling fan speeds | `Swift` |
+| [**Vercel GitHub Theme**](https://github.com/sak0a/github-vercel-theme-chrome) | Chrome extension that re-skins github.com with Vercel's clean dark aesthetic - and creates a Releases tab | `css` |
 
 ---
 
