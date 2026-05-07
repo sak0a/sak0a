@@ -4,7 +4,7 @@
 
 **Software Developer from Germany**
 
-Building tools and infrastructure for the Counter-Strike ecosystem
+Insert boring Headline like everyone else.
 
 [![Website](https://img.shields.io/badge/saka.at-000000?style=for-the-badge&logo=safari&logoColor=white)](https://saka.at)
 [![GitHub](https://img.shields.io/badge/sak0a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sak0a)
@@ -15,7 +15,7 @@ Building tools and infrastructure for the Counter-Strike ecosystem
 
 ### What I Do
 
-I build open-source tools, APIs, and plugins primarily around **Counter-Strike 2** — from game coordinator integrations and inspect URL libraries to full REST APIs serving skin data in multiple languages. I also enjoy building macOS/Windows utilities and working on game server infrastructure.
+I build open-source tools, APIs, plugins etc. - maybe insert another 2 sentences to really get attention on this platform
 
 ---
 
@@ -38,8 +38,10 @@ I build open-source tools, APIs, and plugins primarily around **Counter-Strike 2
 ---
 
 ### Tech Stack
+Could also add creating Jira tickets and navigating Google tbh.
 
 <div align="center">
+
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -61,8 +63,10 @@ I build open-source tools, APIs, and plugins primarily around **Counter-Strike 2
 ---
 
 ### GitHub Stats
+Proves nothing anymore in this era of being a software dev.
 
 <div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=sak0a&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sak0a&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" />
