@@ -15,7 +15,7 @@ Insert boring Headline like everyone else.
 
 ### What I Do
 
-I build open-source tools, APIs, plugins etc. - maybe insert another 2 sentences to really get attention on this platform
+I build open-source tools, APIs, plugins etc. - maybe insert another 2 sentences or a TikTok to really get attention on this platform
 
 ---
 
