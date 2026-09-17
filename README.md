@@ -25,7 +25,7 @@ I build open-source tools, APIs, plugins etc. - maybe insert another 2 sentences
 |---------|-------------|------|
 | [**node-cs2**](https://github.com/sak0a/node-cs2) | Node.js module to connect and interact with the CS2 game coordinator | `js` |
 | [**cs2-inspect-lib**](https://github.com/sak0a/cs2-inspect-lib) | TypeScript library for CS2 inspect URLs — protobuf encoding/decoding, validation, CLI | `ts` |
-| [**CSGO-API**](https://github.com/sak0a/CSGO-API) | Unofficial multi-language JSON API for CS2 — skins, cases, stickers, collections & more | `js` |
+| [**cs2-api**](https://github.com/sak0a/cs2-api) | Unofficial multi-language JSON API for CS2 — skins, cases, stickers, collections & more | `js` |
 | [**cs2inspect-web**](https://github.com/sak0a/cs2inspect-web) | Web application for CS2 item inspection | `ts` |
 | [**CS2DatabaseCleanup**](https://github.com/sak0a/CS2DatabaseCleanup) | CS2 plugin for automatic MySQL player data cleanup with configurable rules | `C#` |
 | [**SnapKeyAdvanced**](https://github.com/sak0a/SnapKeyAdvanced) | Windows keyboard management utility with key simulation for gaming | `C++` |
